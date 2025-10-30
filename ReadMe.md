@@ -1,6 +1,6 @@
 Read Me — CAI Condensation/Evaporation Model
 
-This code accompanies the manuscript “Ca isotopes in CAIs indicate rapid condensation of solids in the early solar nebula” submitted to EPSL in 2025.  
+This code accompanies the manuscript “Ca isotopes in CAIs support rapid condensation of CAIs in the early solar nebula” submitted to EPSL in 2025.  
 
 The code is being shared for transparency and archiving purposes; it was written to perform specific calculations for a manuscript.  It was not designed to be used-friendly or robust for all purposes.  Time permitting, it will be updated and reorganized in the future to be cleaner and more useful / user-friendly.
 
